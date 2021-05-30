@@ -9,3 +9,16 @@ if(userAnswer === "yes"){
   alert("Enjoy visiting our website")
 }else{alert("Think about it again!")}  
 
+
+
+var userA = prompt("where do you live?")
+
+for (i = 0; i == ['jordan'], ['syria'], ['lebanon']; i++){
+alert("Great!")
+}
+break; 
+
+
+
+
+
