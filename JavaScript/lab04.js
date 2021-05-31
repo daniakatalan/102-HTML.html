@@ -11,12 +11,13 @@ if(userAnswer === "yes"){
 
 
 
-//var userA = prompt("where do you live?")
 
-//for (i = 0; i == ['jordan'], ['syria'], ['lebanon']; i++){
-//alert("Great!")
-//}
-//break; 
+var userA = prompt("where do you live?")
+
+for (i = 0; i == ['jordan'], ['syria'], ['lebanon']; i++){
+alert("Great!")
+break; 
+}
 
 
 
@@ -35,6 +36,8 @@ function sayhi(){
 printFullA(userA1, userA2);
 
 sayhi();
+
+
 
 
 
