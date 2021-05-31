@@ -1,0 +1,24 @@
+header nav {
+  float: right
+}
+
+header nav ul li {
+  display: inline;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black
+}
+
+main h1 {
+  text-align: center;
+  background: grey;
+  color: blue;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px; 
+  
+}
+
+
